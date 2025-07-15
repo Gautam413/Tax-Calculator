@@ -1,5 +1,6 @@
 # Tax-Calculator
 A website that allows for tax calculation based on a users input.
+
 # References & Requirements
 
 - The tax calculation works based on this formula -
